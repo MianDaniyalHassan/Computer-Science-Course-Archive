@@ -182,12 +182,6 @@ These folders exist in the repo but map to elective/supporting slots rather than
 
 ---
 
-## ⚠️ A Note on Content
-
-Some folders contain scanned textbook PDFs and solution manuals (e.g., Kenneth Rosen's *Discrete Mathematics*, Anton's *Calculus*) that were shared informally within the class for study purposes. These aren't originally authored material — if you're the rights holder of any document here and want it removed, open an issue and I'll take it down.
-
----
-
 ## 🤝 Contributing
 
 If you're a fellow CS student and have material that would help others — updated past papers, better notes, a course outline for a newer semester — feel free to open a pull request or reach out. This is meant to grow with each batch, not just sit as a static dump from Fall 2023.
