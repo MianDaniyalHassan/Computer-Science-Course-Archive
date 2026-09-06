@@ -28,87 +28,122 @@ Each course has its own folder. Inside you'll typically find some mix of:
 
 ## 🗺️ Degree Roadmap
 
-The official 8-semester / 130-credit-hour road map for the CS program:
-
-<img src="./Fall 2023 CS Road Map.jpeg" alt="CS Road Map" width="100%">
-
-And the prerequisite/eligibility flow (which course unlocks which):
-
-<img src="./Courses Eligiblity fall 2023.jpeg" alt="Course Eligibility Flow" width="100%">
+- 📍 [**View the 8-Semester Road Map →**](./Fall%202023%20CS%20Road%20Map.jpeg) — official 130-credit-hour course sequence
+- 🔗 [**View the Course Eligibility / Prerequisite Flow →**](./Courses%20Eligiblity%20fall%202023.jpeg) — which course unlocks which
 
 ---
 
 ## ✅ Coverage Checklist
 
-What's actually in this repo right now, mapped against the official road map above. Checked = material exists in this repo for that course.
-
-**Semester 1**
-- [ ] Introduction to ICT
-- [ ] Islamic Studies / Ethics
-- [ ] Calculus and Analytical Geometry
-- [ ] English Composition and Comprehension
-- [ ] Applied Physics
-- [ ] Pakistan Studies
-
-**Semester 2**
-- [ ] Digital Logic Design
-- [x] Programming Fundamentals
-- [ ] Communication and Presentation Skills
-- [ ] Probability & Statistics
-- [ ] University Elective - I
-
-**Semester 3**
-- [x] Computer Organization and Assembly Language (COAL)
-- [x] Object Oriented Programming
-- [x] Professional Practices
-- [x] Discrete Structures
-- [ ] Computer Science Supporting - I
-
-**Semester 4**
-- [x] Software Engineering
-- [x] Theory of Automata
-- [x] Linear Algebra
-- [x] Data Structures and Algorithms
-- [ ] University Elective - II
-
-**Semester 5**
-- [ ] Compiler Construction
-- [x] Database Systems
-- [ ] Computer Science Supporting - II
-- [ ] Design and Analysis of Algorithm
-- [ ] Computer Science Supporting - III
-
-**Semester 6**
-- [x] Operating Systems
-- [x] Computer Networks
-- [ ] CS Elective - I
-- [ ] CS Elective - II
-- [x] Technical and Business Writing
-
-**Semester 7**
-- [ ] Artificial Intelligence
-- [ ] CS Elective - III
-- [ ] Final Year Project - I
-- [ ] University Elective - III
-- [ ] Parallel and Distributed Computing
-
-**Semester 8**
-- [ ] University Elective - IV
-- [ ] CS Elective - IV
-- [ ] Final Year Project - II
-- [ ] Information Security
-- [ ] CS Elective - V
+What's actually in this repo right now, mapped against the official road map above. Click a semester to expand — courses with material are linked straight to their folder.
 
 <details>
-<summary><b>📎 Extra material not on the core road map</b> &nbsp;<i>(click to expand)</i></summary>
+<summary><b>Semester 1</b></summary>
+<br>
+
+- ❌ Introduction to ICT
+- ❌ Islamic Studies / Ethics
+- ❌ Calculus and Analytical Geometry
+- ❌ English Composition and Comprehension
+- ❌ Applied Physics
+- ❌ Pakistan Studies
+
+</details>
+
+<details>
+<summary><b>Semester 2</b></summary>
+<br>
+
+- ❌ Digital Logic Design
+- ✅ [Programming Fundamentals](./Programming%20Fundamentals)
+- ❌ Communication and Presentation Skills
+- ❌ Probability & Statistics
+- ❌ University Elective - I
+
+</details>
+
+<details>
+<summary><b>Semester 3</b></summary>
+<br>
+
+- ✅ [Computer Organization and Assembly Language (COAL)](./Computer%20Organization%20and%20Assembly%20Language)
+- ✅ [Object Oriented Programming](./Object%20Oriented%20Programming)
+- ✅ [Professional Practices](./professional%20practices)
+- ✅ [Discrete Structures](./Discrete%20Structures)
+- ❌ Computer Science Supporting - I
+
+</details>
+
+<details>
+<summary><b>Semester 4</b></summary>
+<br>
+
+- ✅ [Software Engineering](./Software%20Engineering)
+- ✅ [Theory of Automata](./Theory%20Of%20Automata)
+- ✅ [Linear Algebra](./Linear%20Algebra)
+- ✅ [Data Structures and Algorithms](./DATA%20STRUCTURES%20AND%20ALGORITHM)
+- ❌ University Elective - II
+
+</details>
+
+<details>
+<summary><b>Semester 5</b></summary>
+<br>
+
+- ❌ Compiler Construction
+- ✅ [Database Systems](./DATA%20BASE%20MANAGEMENT%20SYSTEM)
+- ❌ Computer Science Supporting - II
+- ❌ Design and Analysis of Algorithm
+- ❌ Computer Science Supporting - III
+
+</details>
+
+<details>
+<summary><b>Semester 6</b></summary>
+<br>
+
+- ✅ [Operating Systems](./OPERATING%20SYSTEM)
+- ✅ [Computer Networks](./Computer%20Networks)
+- ❌ CS Elective - I
+- ❌ CS Elective - II
+- ✅ [Technical and Business Writing](./Technical%20Buissness%20Writing)
+
+</details>
+
+<details>
+<summary><b>Semester 7</b></summary>
+<br>
+
+- ❌ Artificial Intelligence
+- ❌ CS Elective - III
+- ❌ Final Year Project - I
+- ❌ University Elective - III
+- ❌ Parallel and Distributed Computing
+
+</details>
+
+<details>
+<summary><b>Semester 8</b></summary>
+<br>
+
+- ❌ University Elective - IV
+- ❌ CS Elective - IV
+- ❌ Final Year Project - II
+- ❌ Information Security
+- ❌ CS Elective - V
+
+</details>
+
+<details>
+<summary><b>📎 Extra material not on the core road map</b></summary>
 <br>
 
 These folders exist in the repo but map to elective/supporting slots rather than a single named course above:
 
-- [x] Advance Software Engineering — likely a CS Elective
-- [x] Marketing — likely a University Elective
-- [x] Multivariable Calculus — supporting math course
-- [x] Web Engineering — likely a CS Elective
+- ✅ [Advance Software Engineering](./Advance%20Software%20Engineering) — likely a CS Elective
+- ✅ [Marketing](./Marketing) — likely a University Elective
+- ✅ [Multivariable Calculus](./Multi%20Variables%20Calculus) — supporting math course
+- ✅ [Web Engineering](./Web%20Engineering) — likely a CS Elective
 
 </details>
 
@@ -156,6 +191,20 @@ Some folders contain scanned textbook PDFs and solution manuals (e.g., Kenneth R
 ## 🤝 Contributing
 
 If you're a fellow CS student and have material that would help others — updated past papers, better notes, a course outline for a newer semester — feel free to open a pull request or reach out. This is meant to grow with each batch, not just sit as a static dump from Fall 2023.
+
+---
+
+## 📜 Disclaimer
+
+This repository is a personal collection of coursework, programming exercises, projects, notes, and other learning materials developed or collected during my Computer Science studies.
+
+The code and materials created by me are shared for educational, reference, and portfolio purposes only. They are not intended to encourage or facilitate academic dishonesty, plagiarism, or submission of another person's work as one's own.
+
+Some materials may have been provided as part of academic courses or may reference third-party resources. All rights to such materials belong to their respective authors, instructors, institutions, or copyright holders. No ownership of third-party content is claimed.
+
+If you are a student, please use this repository only as a learning and reference resource and follow the academic integrity policies of your own institution.
+
+If you are the copyright holder of any material in this repository and believe it has been shared without appropriate permission, please contact me and I will review and, where appropriate, remove the material.
 
 ---
 
