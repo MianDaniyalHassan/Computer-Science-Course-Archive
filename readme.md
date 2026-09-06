@@ -202,12 +202,7 @@ If you are the copyright holder of any material in this repository and believe i
 
 ---
 
-## 👨‍💻 Maintained by
 
-**Mian Daniyal Hassan** — CS Student @ UOL
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/MianDaniyalHassan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mian-daniyal-hassan-849971293)
 
 <div align="center">
 
