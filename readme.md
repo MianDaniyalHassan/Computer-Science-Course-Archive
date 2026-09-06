@@ -26,6 +26,94 @@ Each course has its own folder. Inside you'll typically find some mix of:
 
 ---
 
+## 🗺️ Degree Roadmap
+
+The official 8-semester / 130-credit-hour road map for the CS program:
+
+<img src="./Fall 2023 CS Road Map.jpeg" alt="CS Road Map" width="100%">
+
+And the prerequisite/eligibility flow (which course unlocks which):
+
+<img src="./Courses Eligiblity fall 2023.jpeg" alt="Course Eligibility Flow" width="100%">
+
+---
+
+## ✅ Coverage Checklist
+
+What's actually in this repo right now, mapped against the official road map above. Checked = material exists in this repo for that course.
+
+**Semester 1**
+- [ ] Introduction to ICT
+- [ ] Islamic Studies / Ethics
+- [ ] Calculus and Analytical Geometry
+- [ ] English Composition and Comprehension
+- [ ] Applied Physics
+- [ ] Pakistan Studies
+
+**Semester 2**
+- [ ] Digital Logic Design
+- [x] Programming Fundamentals
+- [ ] Communication and Presentation Skills
+- [ ] Probability & Statistics
+- [ ] University Elective - I
+
+**Semester 3**
+- [x] Computer Organization and Assembly Language (COAL)
+- [x] Object Oriented Programming
+- [x] Professional Practices
+- [x] Discrete Structures
+- [ ] Computer Science Supporting - I
+
+**Semester 4**
+- [x] Software Engineering
+- [x] Theory of Automata
+- [x] Linear Algebra
+- [x] Data Structures and Algorithms
+- [ ] University Elective - II
+
+**Semester 5**
+- [ ] Compiler Construction
+- [x] Database Systems
+- [ ] Computer Science Supporting - II
+- [ ] Design and Analysis of Algorithm
+- [ ] Computer Science Supporting - III
+
+**Semester 6**
+- [x] Operating Systems
+- [x] Computer Networks
+- [ ] CS Elective - I
+- [ ] CS Elective - II
+- [x] Technical and Business Writing
+
+**Semester 7**
+- [ ] Artificial Intelligence
+- [ ] CS Elective - III
+- [ ] Final Year Project - I
+- [ ] University Elective - III
+- [ ] Parallel and Distributed Computing
+
+**Semester 8**
+- [ ] University Elective - IV
+- [ ] CS Elective - IV
+- [ ] Final Year Project - II
+- [ ] Information Security
+- [ ] CS Elective - V
+
+<details>
+<summary><b>📎 Extra material not on the core road map</b> &nbsp;<i>(click to expand)</i></summary>
+<br>
+
+These folders exist in the repo but map to elective/supporting slots rather than a single named course above:
+
+- [x] Advance Software Engineering — likely a CS Elective
+- [x] Marketing — likely a University Elective
+- [x] Multivariable Calculus — supporting math course
+- [x] Web Engineering — likely a CS Elective
+
+</details>
+
+---
+
 ## 📂 Course Index
 
 | Course | Folder | Contains |
